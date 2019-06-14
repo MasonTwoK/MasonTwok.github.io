@@ -1,21 +1,12 @@
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 
-/*body{
-    background: url(https://masontwok.github.io/Project_1/Content/05_feedback/Rectangel_8.jpg) no-repeat center center fixed;
-    background-size: cover;
-}*/
-
 main{
    background: url(https://masontwok.github.io/Project_1/Content/07_quote/rectangle_16.jpg);
 }
 
 footer{
-    display: block;
-}
-
-.footer_class{
     width: 100%;
     background: url(https://masontwok.github.io/Project_1/Content/08_FOOTER/rectangle_12.jpg);
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
