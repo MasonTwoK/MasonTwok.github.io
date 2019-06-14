@@ -5,6 +5,14 @@
     background-size: cover;
 }*/
 
+main{
+   background: url(https://masontwok.github.io/Project_1/Content/07_quote/rectangle_16.jpg);
+}
+
+footer{
+    display: block;
+}
+
 .footer_class{
     width: 100%;
     background: url(https://masontwok.github.io/Project_1/Content/08_FOOTER/rectangle_12.jpg);
