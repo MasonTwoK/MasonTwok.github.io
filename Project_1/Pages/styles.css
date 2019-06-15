@@ -15,5 +15,6 @@ footer{
     display: flex; /*for more info: https://www.w3schools.com/css/css3_flexbox.asp */
     flex-wrap: wrap; /* https://www.w3schools.com/css/css3_flexbox.asp#flex-wrap */
     justify-content: space-between;
+    max-width: 980px;
 }
 
