@@ -12,7 +12,7 @@ footer{
 }
 
 .footer_colums{
-    display: flex;
+    display: flex; /*for more info: https://www.w3schools.com/css/css3_flexbox.asp */
     
 }
 
