@@ -10,3 +10,9 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.footer_colums{
+    display: flex;
+    flex-wrap: wrap;
+}
+
