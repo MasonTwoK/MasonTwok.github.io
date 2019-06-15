@@ -17,3 +17,7 @@ footer{
     justify-content: space-between;
     max-width: 1200px;
 }
+
+.colum_4{
+    padding: 10%;
+}
