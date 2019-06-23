@@ -36,3 +36,7 @@ footer{
     border: 0px;
     height: 70px;
 }
+
+.facebook_link{
+    background-image: url(https://masontwok.github.io/Project_1/Content/08_FOOTER/social/fb/fb_icon.jpg);
+}
