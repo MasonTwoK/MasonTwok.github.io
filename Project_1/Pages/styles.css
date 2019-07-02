@@ -5,6 +5,8 @@
 
 .quote{
    background: url(https://masontwok.github.io/Project_1/Content/07_quote/rectangle_16.jpg);
+   width: 100%;
+   height:100%;
 }
 
 footer{
