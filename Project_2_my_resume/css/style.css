@@ -1,5 +1,5 @@
 #pro_skills_table{
-    padding: 10px;
+    padding-bottom: 100px;
 }
 
 #pro_skills_column1{
@@ -10,13 +10,13 @@
 
 #pro_skills_column2{
     width: 250px;
-    float: right;
+    float: left;
     border: 5px;
 }
 
 #pro_skills_column3{
     width: 250px;
-    float: center;
+    float: right;
     border: 5px;
 }
 
@@ -24,5 +24,4 @@
 
 #pro_skills_paragraph{
     width: 1000px;
-    float: center;
 }
