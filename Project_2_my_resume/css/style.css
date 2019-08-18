@@ -1,3 +1,9 @@
+#pro_skills_table{
+    width: 200px;
+    float: center;
+
+}
+
 #pro_skills_column1{
     width: 200px;
     float: left;
@@ -6,4 +12,9 @@
 #pro_skills_column2{
     width: 200px;
     float: right;
+}
+
+#pro_skills_paragraph{
+    width: 50px;
+    float: center;
 }
