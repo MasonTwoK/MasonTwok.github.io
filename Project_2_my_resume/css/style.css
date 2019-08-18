@@ -1,20 +1,23 @@
 #pro_skills_table{
-    padding: 50px;
+    padding: 10px;
 }
 
 #pro_skills_column1{
-    width: 300px;
+    width: 250px;
     float: left;
+    border: 5px;
 }
 
 #pro_skills_column2{
-    width: 300px;
+    width: 250px;
     float: right;
+    border: 5px;
 }
 
 #pro_skills_column3{
-    width: 300px;
+    width: 250px;
     float: center;
+    border: 5px;
 }
 
 
